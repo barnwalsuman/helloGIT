@@ -23,4 +23,6 @@ agar git commit likh dia bina [-m "message for commit " ] ke
 3rd step-> enter press krdo 
 jkl
 xyz
+lkj
+juy nhu
 
