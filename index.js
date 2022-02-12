@@ -16,7 +16,16 @@ console.log(a);
 //Double quotes,Single Quotes, backtick
 var str='a';
 console.log(typeof str);
-str="How you doin?"
+str="How you doin?\nI am fine what about you"
 console.log(str);
+var t=true;
+var f=false;
+console.log(t);
+console.log(f);
+var b=`hi everyone how is going everything fine naa.
+I hope so. `
+console.log(b);
+var num=500;
+console.log(`Half the value of ${num} is a ${num/2}`);
 
 
